@@ -1,4 +1,4 @@
-## Hi, I'm Udayan ✨
+## Hi, I'm Udayan
 **BTech CSE | Java, MERN, DSA | Aspiring Full Stack Engineer**
 
 - 🧠 Computer Science student at Manipal University, Jaipur <br>
