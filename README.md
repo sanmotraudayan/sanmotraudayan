@@ -1,9 +1,8 @@
 ## Hi, I'm Udayan ✨
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nahh.udayan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanmotraudayan28@gmail.com) 
-
-# 💻 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+🧠 Computer Science student at Manipal University, Jaipur <br>
+# 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,express,react,nodejs)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sanmotraudayan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
