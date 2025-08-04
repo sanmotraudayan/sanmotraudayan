@@ -1,5 +1,5 @@
 ## Hi, I'm Udayan
-**BTech CSE | Java, MERN, DSA | Aspiring Full Stack Engineer**
+**BTech CSE | Java, MERN, DSA | Full Stack Developer**
 
 - Computer Science student at Manipal University, Jaipur <br>
 - Solving real world problems through code
